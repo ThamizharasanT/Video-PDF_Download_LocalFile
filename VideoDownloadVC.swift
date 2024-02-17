@@ -1,18 +1,5 @@
 //MARK: - Xml
-//<key>NSAppTransportSecurity</key>
-//<dict>
-//    <key>NSExceptionDomains</key>
-//    <dict>
-//        <key>commondatastorage.googleapis.com</key>
-//        <dict>
-//            <key>NSIncludesSubdomains</key>
-//            <true/>
-//            <!-- Optional: Add this key if needed -->
-//            <key>NSExceptionAllowsInsecureHTTPLoads</key>
-//            <true/>
-//        </dict>
-//    </dict>
-//</dict>
+
 
 
 import UIKit
